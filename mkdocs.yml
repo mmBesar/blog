@@ -1,8 +1,8 @@
 site_name: Mohammed Besar Blog
 site_author: Mohammed Besar
-site_url: https://mmBesar.github.io/Tutorials/
-repo_url: https://github.com/mmBesar/Tutorials/
-repo_name: mmBesar/Tutorials
+site_url: https://mmBesar.github.io/blog/
+repo_url: https://github.com/mmBesar/blog/
+repo_name: mmBesar/blog
 site_description: Linux and Open Source Software.
 edit_uri: ""
 
