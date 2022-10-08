@@ -169,9 +169,18 @@ markdown_extensions:
 
 extra:
   social:
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/mmbesar
+      name: YouTube Channel
     - icon: fontawesome/brands/mastodon
       link: https://mastodon.online/@mbesar
-      name: Twitter
+      name: Mastodon
+    - icon: fontawesome/brands/rocketchat
+      link: https://matrix.to/#/#mbesar:matrix.org
+      name: Matrix
+    - icon: fontawesome/brands/github
+      link: https://github.com/mmBesar
+      name: GitHub
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/mmbesar
       name: Twitter
@@ -181,15 +190,6 @@ extra:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/Mohammed.Besar.Page
       name: Facebook Page
-    - icon: fontawesome/brands/youtube
-      link: https://youtube.com/mmbesar
-      name: YouTube Channel
-    - icon: fontawesome/brands/rocketchat
-      link: https://matrix.to/#/#mbesar:matrix.org
-      name: Matrix Roon
-    - icon: fontawesome/brands/github
-      link: https://github.com/mmBesar
-      name: GitHub
     # - icon: fontawesome/solid/paper-plane
     #   link: mailto:mbesar@proton.me
     #   name: Send Me an email
